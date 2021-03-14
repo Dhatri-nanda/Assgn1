@@ -178,7 +178,7 @@ https://github.com/Dhatri-nanda/Assgn1/blob/main/AI1103-Probability-and-random-v
 and latex-tikz codes from 
 %
 \begin{lstlisting}
-https://github.com/Dhatri-nanda/Assgn1/blob/main/AI1103-Probability-and-random-variables/assignment1.tex
+https://github.com/Dhatri-nanda/Assgn1/blob/main/AI1103-Probability-and-random-variables/assignment1.txt
 \end{lstlisting}
 \section{Problem}
 If $P(E) = 0.05$. What is the probability of 'not E'?
